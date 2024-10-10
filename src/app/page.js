@@ -5,6 +5,8 @@ export const metadata = {
   description: "This is home page"
 }
 
+// throw new Error();
+
 const HomePage = () => {
   // console.log("Hello World!")
   

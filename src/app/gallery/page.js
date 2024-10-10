@@ -9,7 +9,7 @@ export const metadata = {
 
 const GalleryPage = () => {
   return (
-    <div className="bg-white text-black">
+    <div className="bg-white text-black mb-4">
       <h1 className="text-4xl text-center mt-1 py-4">Image Optimizations</h1>
       <h2 className="text-center text-xl">Regular Image Tag</h2>
       <img

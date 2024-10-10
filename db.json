@@ -1,6 +1,5 @@
 {
   "shoes": [
-    [
       {
         "id": 1,
         "title": "Air Max 270",
@@ -37,6 +36,49 @@
         "description": "High-performance running shoes for competitive racing.",
         "price": 250
       }
-    ]
-  ]
+    ],
+    "t-shirts": [
+        {
+          "id": 1,
+          "title": "Classic Black Crew-Neck T-Shirt",
+          "price": 25,
+          "description": "A versatile black crew-neck t-shirt, perfect for casual wear.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        },
+        {
+          "id": 2,
+          "title": "White Cotton T-Shirt",
+          "price": 20,
+          "description": "Soft white cotton t-shirt, ideal for everyday comfort.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Blue V-Neck T-Shirt",
+          "price": 30,
+          "description": "A stylish blue V-neck t-shirt for a modern look.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Grey Athletic T-Shirt",
+          "price": 35,
+          "description": "Comfortable grey athletic t-shirt, suitable for workouts and sports.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Striped T-Shirt",
+          "price": 27,
+          "description": "A trendy striped t-shirt for a relaxed, casual style.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Graphic Print T-Shirt",
+          "price": 32,
+          "description": "Graphic print t-shirt with a unique and creative design.",
+          "image": "https://www.jerseybdclub.com/wp-content/uploads/2023/08/Custom-t-shirt-design-and-printing-service-in-BD.jpg"
+        }
+      ]   
 }
