@@ -4,7 +4,7 @@ import React, { useState } from "react";
 const Counter = () => {
   const [counter, setCounter] = useState(0);
   return (
-    <div>
+    <div className="mx-4">
       <h1 className="text-3xl my-4">Counter : {counter}</h1>
       <button className="btn btn-accent" onClick={() => setCounter(counter + 1)}>
         Increase

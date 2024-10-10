@@ -1,5 +1,10 @@
 import styles from './About.module.css'
 
+export const metadata = {
+    title: "Next.js | About",
+    description: "This is home page"
+  }
+
 const AboutPage = () => {
     return (
         <div className="bg-white">

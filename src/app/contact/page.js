@@ -1,5 +1,10 @@
 import styles from './Contact.module.css';
 
+export const metadata = {
+    title: "Next.js | Contact",
+    description: "This is home page"
+  }
+
 const ContactUsPage = () => {
     return (
         <div className="bg-white">

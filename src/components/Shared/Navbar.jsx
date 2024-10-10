@@ -27,30 +27,42 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
           >
             <li>
-            <Link href="/about">About</Link>
+              <Link href="/gallery">Gallery</Link>
+            </li>
+            <li>
+            <Link href="/shoes">Shoes</Link>
           </li>
-          <li>
-            <details>
-              <summary>Dashboard</summary>
-              <ul className="p-2">
-                <li>
-                  <Link href="/dashboard/admin">Admin Dashboard</Link>
-                </li>
-                <li>
-                  <Link href="/dashboard/user">User Dashboard</Link>
-                </li>
-              </ul>
-            </details>
-          </li>
-          <li>
-            <Link href="/contact">Contact</Link>
-          </li>
+            <li>
+              <Link href="/about">About</Link>
+            </li>
+            <li>
+              <details>
+                <summary>Dashboard</summary>
+                <ul className="p-2">
+                  <li>
+                    <Link href="/dashboard/admin">Admin Dashboard</Link>
+                  </li>
+                  <li>
+                    <Link href="/dashboard/user">User Dashboard</Link>
+                  </li>
+                </ul>
+              </details>
+            </li>
+            <li>
+              <Link href="/contact">Contact</Link>
+            </li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <Link href="/" className="btn btn-ghost text-xl">Next.js App</Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
+          <li>
+            <Link href="/gallery">Gallery</Link>
+          </li>
+          <li>
+            <Link href="/shoes">Shoes</Link>
+          </li>
           <li>
             <Link href="/about">About</Link>
           </li>

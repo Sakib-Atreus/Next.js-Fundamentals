@@ -1,0 +1,42 @@
+{
+  "shoes": [
+    [
+      {
+        "id": 1,
+        "title": "Air Max 270",
+        "description": "Lightweight running shoes with maximum cushioning and comfort.",
+        "price": 150
+      },
+      {
+        "id": 2,
+        "title": "Ultraboost 22",
+        "description": "Performance-driven sneakers designed for running long distances.",
+        "price": 180
+      },
+      {
+        "id": 3,
+        "title": "Converse Chuck Taylor",
+        "description": "Classic high-top sneakers with a timeless design.",
+        "price": 65
+      },
+      {
+        "id": 4,
+        "title": "Vans Old Skool",
+        "description": "Iconic skate shoes with durable canvas and suede upper.",
+        "price": 60
+      },
+      {
+        "id": 5,
+        "title": "New Balance 990v5",
+        "description": "Versatile sneakers offering comfort and style for everyday wear.",
+        "price": 175
+      },
+      {
+        "id": 6,
+        "title": "Nike ZoomX Vaporfly Next%",
+        "description": "High-performance running shoes for competitive racing.",
+        "price": 250
+      }
+    ]
+  ]
+}
